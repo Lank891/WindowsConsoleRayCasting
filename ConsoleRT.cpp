@@ -12,7 +12,7 @@ constexpr double rayStepForward = 0.1;
 constexpr double maxRayDepth = 16.0;
 constexpr double boundariesTreshold = 0.01;
 
-// Constants related to graphic size
+// Constants related to graphics size
 constexpr short xBuffer = 220;
 constexpr short yBuffer = 120;
 constexpr short fontWidth = 8;
